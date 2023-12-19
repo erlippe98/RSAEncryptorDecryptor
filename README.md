@@ -1,2 +1,3 @@
-ElGamal cipher on an elliptic curve
+Lesson 7:
+Study of cryptosystems on elliptic curves
 Home test
